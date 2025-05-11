@@ -1,4 +1,4 @@
-# 🧠 PDF Memory Dumper for Windows
+# PDF Memory Dumper for Windows
 
 This Python script scans the memory of a target Windows process (by PID), detects embedded PDF file data in memory, and dumps complete PDF files to disk. It uses low-level Windows APIs via `ctypes`.
 
